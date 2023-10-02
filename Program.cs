@@ -7,6 +7,7 @@ namespace CA23100202
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("My name is Bubu :3");
         }
     }
 }
